@@ -212,11 +212,6 @@ def main():
 
     print("\nWelcome to Advanced Sports Q&A System!")
     print("Ask any question about basketball, NFL football, or tennis - statistical, analytical, historical, or strategic")
-    print("\nExample questions:")
-    print("- What makes a quarterback successful in the NFL?")
-    print("- Who are the top scorers in basketball this season?")
-    print("- How do players perform on clay courts at Roland Garros?")
-    print("- What are the key defensive statistics in football?")
     
     while True:
         print("\nAsk your question (or type 'quit' to exit):")
